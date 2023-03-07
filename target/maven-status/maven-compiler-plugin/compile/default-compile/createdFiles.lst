@@ -1,0 +1,9 @@
+com/example/democrud/service/impl/PersonaServiceImpl.class
+com/example/democrud/model/Persona.class
+com/example/democrud/controller/PersonaController.class
+com/example/democrud/commons/GenericServiceAPI.class
+com/example/democrud/commons/GenericServiceImpl.class
+com/example/democrud/dao/api/PersonaDaoAPI.class
+com/example/democrud/controller/PersonaRestController.class
+com/example/democrud/DemoCrudApplication.class
+com/example/democrud/service/api/PersonaServiceAPI.class

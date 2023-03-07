@@ -1,0 +1,9 @@
+/home/jorge/Documentos/proyectos_ejemplo/demo-crud-spring-boot-develop/demo-crud/src/main/java/com/example/democrud/controller/PersonaRestController.java
+/home/jorge/Documentos/proyectos_ejemplo/demo-crud-spring-boot-develop/demo-crud/src/main/java/com/example/democrud/controller/PersonaController.java
+/home/jorge/Documentos/proyectos_ejemplo/demo-crud-spring-boot-develop/demo-crud/src/main/java/com/example/democrud/commons/GenericServiceImpl.java
+/home/jorge/Documentos/proyectos_ejemplo/demo-crud-spring-boot-develop/demo-crud/src/main/java/com/example/democrud/service/api/PersonaServiceAPI.java
+/home/jorge/Documentos/proyectos_ejemplo/demo-crud-spring-boot-develop/demo-crud/src/main/java/com/example/democrud/DemoCrudApplication.java
+/home/jorge/Documentos/proyectos_ejemplo/demo-crud-spring-boot-develop/demo-crud/src/main/java/com/example/democrud/dao/api/PersonaDaoAPI.java
+/home/jorge/Documentos/proyectos_ejemplo/demo-crud-spring-boot-develop/demo-crud/src/main/java/com/example/democrud/model/Persona.java
+/home/jorge/Documentos/proyectos_ejemplo/demo-crud-spring-boot-develop/demo-crud/src/main/java/com/example/democrud/service/impl/PersonaServiceImpl.java
+/home/jorge/Documentos/proyectos_ejemplo/demo-crud-spring-boot-develop/demo-crud/src/main/java/com/example/democrud/commons/GenericServiceAPI.java
